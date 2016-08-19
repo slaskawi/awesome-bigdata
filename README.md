@@ -177,6 +177,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Tarantool](https://github.com/tarantool/tarantool) - an efficient NoSQL database and a Lua application server.
 * [TiKV](https://github.com/pingcap/tikv) - a distributed key-value database powered by Rust and inspired by Google Spanner and HBase.
 * [TreodeDB](https://github.com/Treode/store) - key-value store that's replicated and sharded and provides atomic multirow writes.
+* [Infinispan](http://infinispan.org/) - a distributed in-memory key/value data store with optional schema that can be used both as a Java library and as a standalone server.
 
 
 ## Graph Data Model
